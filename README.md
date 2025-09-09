@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saksham8784/](https://github.com/Saksham8784/)
 
-- 💬 Ask me about **VAPT|Cybersecurity**
+- 💬 Ask me about **VAPT|Cybersecurity|Red Team| Blue Team| Cloud Security**
 
 - 📫 How to reach me **sakshamsingh8784@gmail.com**
 
